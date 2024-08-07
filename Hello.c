@@ -1,6 +1,7 @@
 // C program for the above approach
 #include <stdio.h>
 #include <stdlib.h>
+#include<conio.h>
 
 struct HashNode {
 	int key;
